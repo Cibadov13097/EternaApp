@@ -137,4 +137,5 @@ C:\Users\User\source\repos\EternaApp\EternaApp\obj\Debug\net8.0\refint\EternaApp
 C:\Users\User\source\repos\EternaApp\EternaApp\obj\Debug\net8.0\EternaApp.pdb
 C:\Users\User\source\repos\EternaApp\EternaApp\obj\Debug\net8.0\EternaApp.genruntimeconfig.cache
 C:\Users\User\source\repos\EternaApp\EternaApp\obj\Debug\net8.0\ref\EternaApp.dll
+C:\Users\User\source\repos\EternaApp\EternaApp\obj\Debug\net8.0\EternaApp.sourcelink.json
 C:\Users\User\source\repos\EternaApp\EternaApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

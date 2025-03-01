@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EternaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c47958c96194983650f2be83193ff1a3f96a7095")]
 [assembly: System.Reflection.AssemblyProductAttribute("EternaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EternaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
